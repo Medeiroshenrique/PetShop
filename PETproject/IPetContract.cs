@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PETproject
 {
-    internal class Cliente
+    internal class IPetContract
     {
     }
 }
