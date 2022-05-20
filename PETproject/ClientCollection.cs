@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PETproject
+class ClientCollection: IPetContract
 {
-    internal class ClientCollection
-    {
+    List<Client> CustomerCollection = new List<Client>();
+    public void toAdd(Client c) {
+        CustomerCollection.Add(c);
     }
-}
+    public void toRemove(Client c) {
+        CustomerCollection.Remove(c);
+    }
+    public void searchFor(Client c) {
+        }
+    }
+

@@ -1,0 +1,15 @@
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\bin\Debug\net6.0\PETproject.exe
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\bin\Debug\net6.0\PETproject.deps.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\bin\Debug\net6.0\PETproject.runtimeconfig.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\bin\Debug\net6.0\PETproject.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\bin\Debug\net6.0\PETproject.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.csproj.AssemblyReference.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.AssemblyInfoInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.AssemblyInfo.cs
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.csproj.CoreCompileInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\refint\PETproject.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\PETproject.genruntimeconfig.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\PETproject\PETproject\obj\Debug\net6.0\ref\PETproject.dll
