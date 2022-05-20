@@ -6,18 +6,25 @@
 
     public void setName(string Name)
     {
-        _name = Name;
+        if (Name!=null && Name.Length>1)
+        {
+            _name = Name;
+        }
     }
     public string getName() {
         return _name;
     }
     public void setCpf(string Cpf) {
-        _cpf = Cpf;
+        if (Cpf != null && Cpf.Length > 1)
+        {
+            _cpf = Cpf;
+        }
     }
     public string getCpf() {
         return _cpf;
     }
     public void setToPay(float ToPay) {
+        
         _toPay = ToPay; 
     }
     public float getToPay() {

@@ -10,7 +10,10 @@
 
     public void setSpecies(string Species)
     {
-        _species = Species;
+        if (Species != null && Species.Length > 1)
+            {
+            _species = Species;
+        }
     }
     public string getSpecies()
     {
@@ -18,19 +21,29 @@
     }
     public void setName(string Name)
     {
-        _name = Name;
+        if (Name != null && Name.Length > 1)
+        {
+            _name = Name;
+        }
+
     }
     public string getName() {
         return _name;   
     }
     public void setIdentification(string Identification) {
-        _identification = Identification;
+        if (Identification != null && Identification.Length > 1)
+        {
+            _identification = Identification;
+        }
     }
     public string getIdentification() {
         return _identification;
     }
-    public void setGender(string Gender) {
-        _gender =Gender;   
+    public void setGender(string Gender)
+    {
+        if (Gender != null && Gender.Length > 1) { 
+            _gender = Gender;
+        }
     }
     public string getGender() {
         return _gender;
@@ -42,7 +55,10 @@
         return _desiredService;
     }
     public void setYearsOld(int YearsOld) {
-        _yearsOld = YearsOld;
+        if (YearsOld != null && YearsOld > 0)
+        {
+            _yearsOld = YearsOld;
+        }
     }
     public int getYearsOld() {
         return _yearsOld;
